@@ -18,5 +18,4 @@ class CutoffMark(Base):
     )
 
     year = Column(Integer)
-
     cutoff_zscore = Column(DECIMAL(4,3))
