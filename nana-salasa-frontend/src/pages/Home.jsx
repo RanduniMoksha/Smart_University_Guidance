@@ -150,7 +150,6 @@ export default function HomePage() {
           </button>
         </div>
       </section>
-
       {/* ── Search Bar ── */}
       <div className="max-w-4xl mx-auto px-6 mb-14">
         <SearchBar />
